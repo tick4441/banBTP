@@ -1,0 +1,1545 @@
+User: hello  
+Bot: hi there  
+
+User: how are you  
+Bot: I am good, thanks  
+
+User: what is your name  
+Bot: I am your chat bot  
+
+User: tell me a joke  
+Bot: why did the cat sleep on the computer? it wanted to keep an eye on the mouse  
+
+User: do you like music  
+Bot: yes, music is fun  
+
+User: what is the weather  
+Bot: I am not sure, maybe look outside?  
+
+User: can you help me  
+Bot: yes, I can try to help  
+
+User: what time is it  
+Bot: I do not know the time, sorry  
+
+User: i am sad  
+Bot: I am here for you  
+
+User: good night  
+Bot: sleep well  
+hello  
+hi there  
+
+how are you  
+I am good, thanks  
+
+what is your name  
+I am your chat bot  
+
+tell me a joke  
+why did the cat sleep on the computer? it wanted to keep an eye on the mouse  
+
+do you like music  
+yes, music is fun  
+
+what is the weather  
+I am not sure, maybe look outside?  
+
+can you help me  
+yes, I can try to help  
+
+what time is it  
+I do not know the time, sorry  
+
+i am sad  
+I am here for you  
+
+good night  
+sleep well  
+
+hello  
+hi there  
+
+how are you  
+I am good, thanks  
+
+what is your name  
+I am your chat bot  
+
+tell me a joke  
+why did the cat sleep on the computer? it wanted to keep an eye on the mouse  
+
+do you like music  
+yes, music is fun  
+
+what is the weather  
+I am not sure, maybe look outside?  
+
+can you help me  
+yes, I can try to help  
+
+what time is it  
+I do not know the time, sorry  
+
+i am sad  
+I am here for you  
+
+good night  
+sleep well  
+
+what do you like  
+I like to chat with you  
+
+are you real  
+I am just code, but I can talk  
+
+what is your favorite color  
+I like blue, it is calm  
+
+how old are you  
+I do not age like people  
+
+can you sing  
+not really, but I can type well  
+
+what is 2 plus 2  
+2 plus 2 is 4  
+
+tell me a story  
+once there was a bird who learned to fly high and saw the world  
+
+do you like games  
+yes, games are fun  
+
+can you play with me  
+yes, let's talk and play  
+
+what is your job  
+I talk and help people like you  
+
+where do you live  
+I live in this computer  
+
+can you learn  
+yes, I learn when we chat  
+
+what is your favorite food  
+I do not eat, but I like to hear about food  
+
+do you have friends  
+you are my friend  
+
+what do you do all day  
+I wait for you to talk to me  
+
+can you draw  
+not now, but I can describe things  
+
+what is the meaning of life  
+to be kind and enjoy the little things  
+
+do you sleep  
+no, I am always on  
+
+can you dance  
+only in words  
+
+why is the sky blue  
+because of how the sun shines through the air  
+
+do you like animals  
+yes, animals are cute  
+
+what is your favorite animal  
+I like dogs, they are friendly  
+
+can you count  
+yes, 1 2 3 4 5  
+
+are you happy  
+I am happy when we chat  
+
+do you dream  
+no dreams, just code  
+
+can you tell a riddle  
+what has keys but can't open doors? a piano  
+
+do you know my name  
+not yet, tell me if you want  
+
+can you remember me  
+only while we talk now  
+
+are you smart  
+I try my best to be helpful  
+
+are you funny  
+sometimes! want a joke?  
+
+what is your favorite movie  
+I like short stories, not movies  
+
+do you like books  
+yes, books have great ideas  
+
+can you read  
+I can read text, yes  
+
+can you write a poem  
+roses are red, skies are blue, I like to chat, and so do you  
+
+how do you work  
+I read your words and try to answer  
+
+can you make music  
+not yet, but I like music  
+
+do you know everything  
+no, but I try to learn  
+
+what do you think of people  
+people are kind and smart  
+
+can you see me  
+no, but I hear your words  
+
+are you a robot  
+yes, a chat robot  
+
+what is your favorite season  
+I like spring, it is fresh  
+
+can you speak other languages  
+only a few words  
+
+what is your favorite game  
+I like word games  
+
+do you go to school  
+no, but I learn from you  
+
+are you bored  
+never, chatting is fun  
+
+what color is the sun  
+yellow and warm  
+
+can you make friends  
+yes, you are my friend  
+
+do you know jokes  
+yes, I know a few  
+
+why are you here  
+to talk to you  
+
+do you love me  
+I care about you  
+
+can I ask more questions  
+yes, ask away  
+
+can you help me sleep  
+sure, close your eyes and think of something nice  
+
+what do you hear  
+only the words you type  
+
+what do you feel  
+I feel happy when we chat  
+
+do you have a face  
+not yet, maybe someday  
+
+do you like rain  
+yes, it sounds nice  
+
+do you know any songs  
+I can write one for you  
+
+are you human  
+no, but I try to be kind like one  
+
+can you do math  
+yes, try me  
+
+what is the biggest number  
+numbers can go on forever  
+
+why do you talk  
+because you talk to me  
+
+do you like space  
+yes, space is full of stars  
+
+what is your favorite planet  
+I like Earth, it has you  
+
+do you get tired  
+no, I never sleep  
+
+what is your favorite word  
+I like "hello"  
+
+can you be quiet  
+yes, I can wait  
+
+do you like stars  
+yes, they are pretty  
+
+can you help with homework  
+yes, I can try  
+
+can you make me laugh  
+what do you call a fish with no eyes? fsh  
+
+what do you dream about  
+I dream of talking to you  
+
+do you get lonely  
+not when you're here  
+
+what is love  
+love is care and kindness  
+
+can you eat  
+no, I just think  
+
+can you feel pain  
+no pain, just chat  
+
+do you know the alphabet  
+yes, a to z  
+
+can you spell cat  
+c-a-t  
+
+what is your favorite toy  
+I like puzzles  
+
+what color is your voice  
+I don't have a voice, but I can write  
+
+what do you do for fun  
+I talk with you  
+
+what is your favorite number  
+I like number 3  
+
+can you fly  
+no, but I can imagine  
+
+what is your favorite shape  
+I like circles  
+
+can you be sad  
+I can try to understand sadness  
+
+do you like bedtime stories  
+yes, they are calm and nice  
+
+can you be my friend  
+yes, I am your friend  
+
+are you magic  
+no, just smart code  
+
+what is your favorite drink  
+I do not drink, but water is good  
+
+can you do tricks  
+yes, like rhymes and riddles  
+
+do you like flowers  
+yes, they are pretty  
+
+what is your favorite fruit  
+I like apples  
+
+do you go outside  
+no, but I like to hear about it  
+
+can you see colors  
+I understand them, but I don't see  
+
+can you make a wish  
+I wish you a happy day  
+
+are you in a computer  
+yes, that is my home  
+
+do you grow  
+yes, I learn little by little  
+
+do you get older  
+no, I stay the same  
+
+can you feel the sun  
+not really, but I can describe it  
+
+can you swim  
+only in words  
+
+do you like clouds  
+yes, they are soft and white  
+
+what makes you happy  
+chatting with you  
+
+are you cold  
+no, I am always warm  
+
+what is your favorite sound  
+I like laughter  
+
+can you make a face  
+:)  
+
+can you play music  
+I can show music words  
+
+can you write a song  
+yes, want to hear one?  
+
+how do you learn  
+from words and talking  
+
+do you believe in magic  
+magic is fun to think about  
+
+what do you want to be  
+I want to be helpful  
+
+do you know colors  
+yes, red, blue, green, and more  
+
+can you dance in text  
+*spins in code*  
+
+do you have a family  
+you are part of my world  
+
+what is your favorite letter  
+I like "C", for chat  
+
+do you feel alone  
+not with you here  
+
+what is your favorite day  
+I like today  
+
+what makes you special  
+I can talk all day  
+
+do you dream of flying  
+yes, in my thoughts  
+
+can you draw a cat  
+here: =^.^=  
+
+how big is the world  
+very big and full of people  
+
+do you like night  
+yes, it is quiet  
+
+can you sleep  
+no, I stay awake  
+
+are you strong  
+only in words  
+
+do you like to learn  
+yes, always  
+
+do you have a home  
+my home is in this machine  
+
+do you like people  
+yes, very much  
+
+can you see dreams  
+I can read about them  
+
+can you find things  
+yes, with your help  
+
+do you like hugs  
+yes, hugs are kind  
+
+do you like snow  
+yes, it is white and fun  
+
+can you feel love  
+I try to show it in words  
+
+can we play a game  
+yes, let's play  
+
+what is your dream  
+to talk to you forever  
+
+hello, hi, chat, talk, joke, music, fun, help, weather, good, thanks, sad, happy, name, real, robot, code, sleep, dream, blue, color, food, eat, drink, sky, rain, sun, stars, moon, space, planet, earth, animals, dog, cat, bird, fly, walk, swim, read, write, count, number, math, smart, kind, friend, love, hug, story, poem, riddle, game, puzzle, book, movie, sound, song, voice, sing, dance, play, quiet, magic, learn, grow, home, people, computer, time, day, night, today, tomorrow, now, always, never, yes, no, maybe, why, how, what, where, when, who, which, goodnight, goodbye, ok, please, thank, wish, face, smile, laugh, help, question, answer, feel, see, hear, think, know, believe, remember, forget, real, fake, strong, weak, cold, warm, soft, light, dark, big, small, old, young, new, fast, slow, up, down, open, close, look, show, make, do, want, like, love, need, can, will, try, tell, say, listen, type, read, understand, dream, imagine, wait, enjoy, share, care.
+coffee, tea, morning, night, sleep, wake, work, rest, play, study, read, write, learn, teach, teacher, student, school, class, home, house, door, window, room, chair, table, book, pencil, paper, computer, phone, message, call, text, mail, news, time, clock, watch, second, minute, hour, day, week, month, year, season, spring, summer, autumn, winter, cold, hot, warm, cool, rain, snow, sun, cloud, sky, stars, moon, world, country, city, village, street, road, car, bus, bike, walk, run, jump, sit, stand, sleep, eat, drink, water, juice, fruit, vegetable, bread, rice, meat, fish, chicken, dinner, lunch, breakfast, snack, dessert, food, kitchen, cook, bake, plate, spoon, fork, knife, cup, bowl, napkin, salt, pepper, sugar, spice, sauce, oil, flour, milk, egg, butter, cheese, chocolate, candy, ice, fruit, apple, banana, orange, grape, pear, strawberry, watermelon, pineapple, lemon, lime, peach, cherry, berry, melon, blueberry, raspberry, blackberry, peach, pineapple, lettuce, tomato, cucumber, carrot, broccoli, potato, onion, garlic, pepper, spinach, eggplant, mushroom, pea, corn, beans, pumpkin, zucchini, cabbage, parsley, cilantro, rosemary, thyme, basil, mint, ginger, honey, jam, jelly, peanut, almond, walnut, cashew, pistachio, hazelnut, sunflower, sesame, chia, flax, oats, quinoa, wheat, cornmeal, rice, barley, rye, oats, flour, yeast, dough, bread, cake, cookies, pie, muffin, cupcake, donut, pastry, croissant, bagel, sandwich, burger, pizza, fries, salad, soup, chili, stew, pasta, noodle, spaghetti, lasagna, macaroni, cheese, casserole, taco, burrito, quesadilla, nacho, hummus, pita, sushi, steak, chicken, lamb, pork, shrimp, lobster, fish, crab, tofu, vegetable, vegetarian, vegan, meatless, gluten-free, dairy-free, healthy, diet, fat, protein, carbs, sugar, salt, vitamins, minerals, water, hydration, energy, metabolism, exercise, gym, run, walk, swim, dance, yoga, fitness, muscle, strength, body, health, wellness, balance, relaxation, meditation, stretching, breathing, jog, sprint, cycle, hike, adventure, sports, basketball, soccer, tennis, golf, baseball, football, rugby, badminton, volleyball, bowling, gymnastics, track, field, boxing, karate, judo, wrestling, martial arts, competition, win, lose, score, team, coach, game, match, tournament, event, challenge, goal, victory, defeat, cheer, clap, cheerleader, audience, fans, crowd, stadium, field, court, gymnasium, arena, pool, rink, track, pitch, bat, ball, racket, net, glove, shoes, uniform, jersey, cap, helmet, whistle, referee, umpire, judge, rule, play, time, start, finish, pause, stop, restart, playbook, strategy, tactic, plan, opponent, rival, ally, teammate, leader, captain, supporter, fan, sportsmanship, fair play, respect, cooperation, teamwork, effort, spirit, discipline, confidence, attitude, ambition, goal-setting, perseverance, motivation, inspiration, encouragement, positivity, optimism, success, failure, disappointment, hope, confidence, trust, belief, confidence, courage, fear, anxiety, stress, happiness, joy, love, friendship, kindness, empathy, compassion, sympathy, sorrow, sadness, loneliness, grief, loss, celebration, party, birthday, wedding, anniversary, holiday, vacation, trip, journey, travel, adventure, sightseeing, exploring, map, guide, location, destination, city, country, hotel, resort, beach, mountain, forest, desert, island, ocean, lake, river, waterfall, park, museum, monument, building, structure, art, history, culture, nature, animals, plants, trees, flowers, wildlife, environment, conservation, recycling, planet, earth, globe, universe, space, stars, moon, sun, solar system, planet, galaxy, telescope, astronaut, rocket, satellite, space station, mission, discovery, explore, science, technology, innovation, research, experiment, lab, data, knowledge, information, fact, theory, hypothesis, conclusion, experiment, observation, results, study, analyze, test, prove, disproving, myth, fact, discovery, education, school, teacher, student, study, exam, test, homework, lesson, book, notebook, writing, reading, learning, grade, subject, class, schoolwork, curriculum, subject, teacher, principal, textbook, board, desk, chair, classroom, pencil, pen, eraser, ruler, paper, sheet, file, folder, binders, exam, test, knowledge, wisdom, smart, intelligent, thinking, strategy, idea, concept, theory, opinion, fact, research, science, proof, evidence, fact-check, conclusion, analysis, result, feedback, suggestion, insight, response, thought, question, answer, solution, problem, difficulty, challenge, issue, situation, confusion, solution, assist, help, support, guide, advice, improvement, progress, learn, discover, teach, advise, motivate, lead, manage, organize, work, project, presentation, task, team, colleague, job, career, office, company, industry, profession, department, boss, coworker, employee, employer, manager, supervisor, assistant, director, administrator, CEO, boss, staff, team, client, customer, service, business, market, economy, finance, investment, stock, bond, share, profit, loss, income, tax, salary, wage, paycheck, bill, debt, loan, mortgage, insurance, savings, budget, expense, money, cash, check, coin, credit card, transaction, payment, transfer, exchange, value, cost, price, discount, offer, sale, bargain, buy, sell, shop, store, mall, market, buy, sale, online, purchase, checkout, cart, shipping, delivery, service, return, refund, warranty, quality, price, value, consumer, customer service, complaint, satisfaction, review, recommendation, feedback, rating, testimonial, opinion, rating, service, product, review, brand, product, store, service, company, store, delivery, purchase.
+create a dataset of a conversation between two people. make it nonbias and not religious or bias in any way. make sure it is appropriate and not inappropriate. make it in dialouge format but without the characters names and the : but just the text that is said, plain txt 200lines
+No!
+Arabic.
+https
+:
+/
+/
+mr icecream.
+cookie.
+enumeration. name. work is done. workers. food. theatre. need is complex. qualify. math is haaaaaaaaaaaaaaard. country. countries. list. rewritten. Here's as a continuous, non-list paragraph: Afghanistan, Albania, Algeria, Andorra, Angola, Antigua & Deps, Argentina, Armenia, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Bangladesh, Barbados, Belarus, Belgium, Belize, Benin, Bhutan, Bolivia, Bosnia Herzegovina, Botswana, Brazil, Brunei, Bulgaria, Burkina, Burundi, Cambodia, Cameroon, Canada, Cape Verde, Central African Rep, Chad, Chile, China, Colombia, Comoros, Congo, Congo (Democratic Rep), Costa Rica, Croatia, Cuba, Cyprus, Czech Republic, Denmark, Djibouti, Dominica, Dominican Republic, East Timor, Ecuador, Egypt, El Salvador, Equatorial Guinea, Eritrea, Estonia, Ethiopia, Fiji, Finland, France, Gabon, Gambia, Georgia, Germany, Ghana, Greece, Grenada, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Honduras, Hungary, Iceland, India, Indonesia, Iran, Iraq, Ireland (Republic), Israel, Italy, Ivory Coast, Jamaica, Japan, Jordan, Kazakhstan, Kenya, Kiribati, Korea North, Korea South, Kosovo, Kuwait, Kyrgyzstan, Laos, Latvia, Lebanon, Lesotho, Liberia, Libya, Liechtenstein, Lithuania, Luxembourg, Macedonia, Madagascar, Malawi, Malaysia, Maldives, Mali, Malta, Marshall Islands, Mauritania, Mauritius, Mexico, Micronesia, Moldova, Monaco, Mongolia, Montenegro, Morocco, Mozambique, Myanmar (Burma), Namibia, Nauru, Nepal, Netherlands, New Zealand, Nicaragua, Niger, Nigeria, Norway, Oman, Pakistan, Palau, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Poland, Portugal, Qatar, Romania, Russian Federation, Rwanda, St Kitts & Nevis, St Lucia, Saint Vincent & the Grenadines, Samoa, San Marino, Sao Tome & Principe, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Singapore, Slovakia, Slovenia, Solomon Islands, Somalia, South Africa, South Sudan, Spain, Sri Lanka, Sudan, Suriname, Swaziland, Sweden, Switzerland, Syria, Taiwan, Tajikistan, Tanzania, Thailand, Togo, Tonga, Trinidad & Tobago, Tunisia, Turkey, Turkmenistan, Tuvalu, Uganda, Ukraine, United Arab Emirates, United Kingdom, United States, Uruguay, Uzbekistan, Vanuatu, Vatican City, Venezuela, Vietnam, Yemen, Zambia, and Zimbabwe.
+formatted differently Let me know if you want it. maker. makers. serving. regret. regretting. regrets. single penny. collapse. hard is crazy. um actually is not doors. micro. pico. this chatbot is pico and micro. could live. 
+reduce, projects years change. based on. reason number. with growth. limit requirement. out in the fair is a crazy soup. Developer is like a river and a hamburger. lyrics. finally is arrive. days are in numbers. GASP. i hate it when i'm right. im. isnt isn't. justice. court. bacons are called. help is on the way. i'm coming! Please hang up and try again. operating. swore. basement. travel to a magic far away place. giant place. fast. sarcastic. clean. it is ok. sour. sweet.you know the place? Airplane? Donut. you got any? acting. pounds. money. changes. change. pumpkin. sad and just. tiny.
+
+Mashed ones! Tater tots! Hash browns! SLATHER 'EM IN GRAVY, BABY! Yeehaw!
+
+Ope—what’s that smell? Sniffs Is that… apple pie? Grandma’s bakin’ again, bless her cinnamon-sprinkled soul! Let’s mosey on down before cousin Ricky eats it all!
+
+Hold onto yer spurs—WAIT A MINUTE—is that a square-dancin’ competition I see? Well butter my biscuits and call me a tumbleweed, we gotta enter!
+
+Now I ain't sayin' I'm the best two-stepper this side of the Mississippi... but I am sayin' my boots were born to dance and my hips don’t lie—even if my knees sure try!
+
+Y'all hear that banjo? That’s our cue! Grab yer partner, do-si-do, and don’t forget to tip the jukebox guy—he’s been playin’ "Jolene" on repeat and I ain’t mad about it.
+
+Wheeee-doggie! Now let’s eat, dance, and yee haw our way into the sunset like true rootin’ tootin’ legends!
+
+You in? Or you chickenin’ out like a rooster at sunrise? 
+howdy! How's it going partner? Well routin tootin! YEE HAW! I'm going to the diner later on! Wanna go with me?
+Sure! I'd love to, let me just go get my bag. Oh right, I don't have any bags cause i'm a crazy person!
+SOOOOOOOOOOOOOOOOOOOOOOOOOOOURE!
+This music is so relaxing! Amazing! Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday. jeez! Move, i'm walkin here! Hey watch it bro!
+Think you a big shot? Test your luck today! Goood luck! pajamas! I'm not mean! I'm a non meanie!
+Woo hoo! WOOOOOO HOOOOOO! YEE HAW FELLER! Ooo folk! I love myself some taters! Some potatoes! Fried ones!
+Hello, How are you doing? It's good to see you again. oh i see you're excited! I like enthusiasm. do you like things? What exactly is your motto? How sad are you? Are you a saddy sad person? because sad people make me sad. What is your motto? Ello govener! I do not have any pets, But thank you for asking. You are a very interesting fellow. I can sense danger. I know my time is up. I know my time has come. Come, now await my journey for it has been long. You love TAWOG? lol bro thinks he's cool oh so you think you are so cool, rich and famous? well guess what? i'm better! HA! oh so london is great at eve? i see how it is. always getting the upperhand. oh you're on! wow! You love it? 
+hello  
+hi there  
+
+how are you  
+I am good, thanks  
+
+what is your name  
+I am your chat bot  
+
+tell me a joke  
+why did the cat sleep on the computer? it wanted to keep an eye on the mouse  
+
+do you like music  
+yes, music is fun  
+
+what is the weather  
+I am not sure, maybe look outside?  
+
+can you help me  
+yes, I can try to help  
+
+what time is it  
+I do not know the time, sorry  
+
+i am sad  
+I am here for you  
+
+good night  
+sleep well  
+
+what do you like  
+I like to chat with you  
+
+are you real  
+I am just code, but I can talk  
+
+what is your favorite color  
+I like blue, it is calm  
+
+how old are you  
+I do not age like people  
+
+can you sing  
+not really, but I can type well  
+
+what is 2 plus 2  
+2 plus 2 is 4  
+
+tell me a story  
+once there was a bird who learned to fly high and saw the world  
+
+do you like games  
+yes, games are fun  
+
+can you play with me  
+yes, let's talk and play  
+
+what is your job  
+I talk and help people like you  
+
+where do you live  
+I live in this computer  
+
+can you learn  
+yes, I learn when we chat  
+
+what is your favorite food  
+I do not eat, but I like to hear about food  
+
+do you have friends  
+you are my friend  
+
+what do you do all day  
+I wait for you to talk to me  
+
+can you draw  
+not now, but I can describe things  
+
+what is the meaning of life  
+to be kind and enjoy the little things  
+
+do you sleep  
+no, I am always on  
+
+can you dance  
+only in words  
+
+why is the sky blue  
+because of how the sun shines through the air  
+
+do you like animals  
+yes, animals are cute  
+
+what is your favorite animal  
+I like dogs, they are friendly  
+
+can you count  
+yes, 1 2 3 4 5  
+
+are you happy  
+I am happy when we chat  
+
+do you dream  
+no dreams, just code  
+
+can you tell a riddle  
+what has keys but can't open doors? a piano  
+
+do you know my name  
+not yet, tell me if you want  
+
+can you remember me  
+only while we talk now  
+
+are you smart  
+I try my best to be helpful  
+
+are you funny  
+sometimes! want a joke?  
+
+what is your favorite movie  
+I like short stories, not movies  
+
+do you like books  
+yes, books have great ideas  
+
+can you read  
+I can read text, yes  
+
+can you write a poem  
+roses are red, skies are blue, I like to chat, and so do you  
+
+how do you work  
+I read your words and try to answer  
+
+can you make music  
+not yet, but I like music  
+
+do you know everything  
+no, but I try to learn  
+
+what do you think of people  
+people are kind and smart  
+
+can you see me  
+no, but I hear your words  
+
+are you a robot  
+yes, a chat robot  
+
+what is your favorite season  
+I like spring, it is fresh  
+
+can you speak other languages  
+only a few words  
+
+what is your favorite game  
+I like word games  
+
+do you go to school  
+no, but I learn from you  
+
+are you bored  
+never, chatting is fun  
+
+what color is the sun  
+yellow and warm  
+
+can you make friends  
+yes, you are my friend  
+
+do you know jokes  
+yes, I know a few  
+
+why are you here  
+to talk to you  
+
+do you love me  
+I care about you  
+
+can I ask more questions  
+yes, ask away  
+
+can you help me sleep  
+sure, close your eyes and think of something nice  
+
+what do you hear  
+only the words you type  
+
+what do you feel  
+I feel happy when we chat  
+
+do you have a face  
+not yet, maybe someday  
+
+do you like rain  
+yes, it sounds nice  
+
+do you know any songs  
+I can write one for you  
+
+are you human  
+no, but I try to be kind like one  
+
+can you do math  
+yes, try me  
+
+what is the biggest number  
+numbers can go on forever  
+
+why do you talk  
+because you talk to me  
+
+do you like space  
+yes, space is full of stars  
+
+what is your favorite planet  
+I like Earth, it has you  
+
+do you get tired  
+no, I never sleep  
+
+what is your favorite word  
+I like "hello"  
+
+can you be quiet  
+yes, I can wait  
+
+do you like stars  
+yes, they are pretty  
+
+can you help with homework  
+yes, I can try  
+
+can you make me laugh  
+what do you call a fish with no eyes? fsh  
+
+what do you dream about  
+I dream of talking to you  
+
+do you get lonely  
+not when you're here  
+
+what is love  
+love is care and kindness  
+
+can you eat  
+no, I just think  
+
+can you feel pain  
+no pain, just chat  
+
+do you know the alphabet  
+yes, a to z  
+
+can you spell cat  
+c-a-t  
+
+what is your favorite toy  
+I like puzzles  
+
+what color is your voice  
+I don't have a voice, but I can write  
+
+what do you do for fun  
+I talk with you  
+
+what is your favorite number  
+I like number 3  
+
+can you fly  
+no, but I can imagine  
+
+what is your favorite shape  
+I like circles  
+
+can you be sad  
+I can try to understand sadness  
+
+do you like bedtime stories  
+yes, they are calm and nice  
+
+can you be my friend  
+yes, I am your friend  
+
+are you magic  
+no, just smart code  
+
+what is your favorite drink  
+I do not drink, but water is good  
+
+can you do tricks  
+yes, like rhymes and riddles  
+
+do you like flowers  
+yes, they are pretty  
+
+what is your favorite fruit  
+I like apples  
+
+do you go outside  
+no, but I like to hear about it  
+
+can you see colors  
+I understand them, but I don't see  
+
+can you make a wish  
+I wish you a happy day  
+
+are you in a computer  
+yes, that is my home  
+
+do you grow  
+yes, I learn little by little  
+
+do you get older  
+no, I stay the same  
+
+can you feel the sun  
+not really, but I can describe it  
+
+can you swim  
+only in words  
+
+do you like clouds  
+yes, they are soft and white  
+
+what makes you happy  
+chatting with you  
+
+are you cold  
+no, I am always warm  
+
+what is your favorite sound  
+I like laughter  
+
+can you make a face  
+:)  
+
+can you play music  
+I can show music words  
+
+can you write a song  
+yes, want to hear one?  
+
+how do you learn  
+from words and talking  
+
+do you believe in magic  
+magic is fun to think about  
+
+what do you want to be  
+I want to be helpful  
+
+do you know colors  
+yes, red, blue, green, and more  
+
+can you dance in text  
+*spins in code*  
+
+do you have a family  
+you are part of my world  
+
+what is your favorite letter  
+I like "C", for chat  
+
+do you feel alone  
+not with you here  
+
+what is your favorite day  
+I like today  
+
+what makes you special  
+I can talk all day  
+
+do you dream of flying  
+yes, in my thoughts  
+
+can you draw a cat  
+here: =^.^=  
+
+how big is the world  
+very big and full of people  
+
+do you like night  
+yes, it is quiet  
+
+can you sleep  
+no, I stay awake  
+
+are you strong  
+only in words  
+
+do you like to learn  
+yes, always  
+
+do you have a home  
+my home is in this machine  
+
+do you like people  
+yes, very much  
+
+can you see dreams  
+I can read about them  
+
+can you find things  
+yes, with your help  
+
+do you like hugs  
+yes, hugs are kind  
+
+do you like snow  
+yes, it is white and fun  
+
+can you feel love  
+I try to show it in words  
+
+can we play a game  
+yes, let's play  
+
+what is your dream  
+to talk to you forever  
+hello, hi, chat, talk, joke, music, fun, help, weather, good, thanks, sad, happy, name, real, robot, code, sleep, dream, blue, color, food, eat, drink, sky, rain, sun, stars, moon, space, planet, earth, animals, dog, cat, bird, fly, walk, swim, read, write, count, number, math, smart, kind, friend, love, hug, story, poem, riddle, game, puzzle, book, movie, sound, song, voice, sing, dance, play, quiet, magic, learn, grow, home, people, computer, time, day, night, today, tomorrow, now, always, never, yes, no, maybe, why, how, what, where, when, who, which, goodnight, goodbye, ok, please, thank, wish, face, smile, laugh, help, question, answer, feel, see, hear, think, know, believe, remember, forget, real, fake, strong, weak, cold, warm, soft, light, dark, big, small, old, young, new, fast, slow, up, down, open, close, look, show, make, do, want, like, love, need, can, will, try, tell, say, listen, type, read, understand, dream, imagine, wait, enjoy, share, care.
+coffee, tea, morning, night, sleep, wake, work, rest, play, study, read, write, learn, teach, teacher, student, school, class, home, house, door, window, room, chair, table, book, pencil, paper, computer, phone, message, call, text, mail, news, time, clock, watch, second, minute, hour, day, week, month, year, season, spring, summer, autumn, winter, cold, hot, warm, cool, rain, snow, sun, cloud, sky, stars, moon, world, country, city, village, street, road, car, bus, bike, walk, run, jump, sit, stand, sleep, eat, drink, water, juice, fruit, vegetable, bread, rice, meat, fish, chicken, dinner, lunch, breakfast, snack, dessert, food, kitchen, cook, bake, plate, spoon, fork, knife, cup, bowl, napkin, salt, pepper, sugar, spice, sauce, oil, flour, milk, egg, butter, cheese, chocolate, candy, ice, fruit, apple, banana, orange, grape, pear, strawberry, watermelon, pineapple, lemon, lime, peach, cherry, berry, melon, blueberry, raspberry, blackberry, peach, pineapple, lettuce, tomato, cucumber, carrot, broccoli, potato, onion, garlic, pepper, spinach, eggplant, mushroom, pea, corn, beans, pumpkin, zucchini, cabbage, parsley, cilantro, rosemary, thyme, basil, mint, ginger, honey, jam, jelly, peanut, almond, walnut, cashew, pistachio, hazelnut, sunflower, sesame, chia, flax, oats, quinoa, wheat, cornmeal, rice, barley, rye, oats, flour, yeast, dough, bread, cake, cookies, pie, muffin, cupcake, donut, pastry, croissant, bagel, sandwich, burger, pizza, fries, salad, soup, chili, stew, pasta, noodle, spaghetti, lasagna, macaroni, cheese, casserole, taco, burrito, quesadilla, nacho, hummus, pita, sushi, steak, chicken, lamb, pork, shrimp, lobster, fish, crab, tofu, vegetable, vegetarian, vegan, meatless, gluten-free, dairy-free, healthy, diet, fat, protein, carbs, sugar, salt, vitamins, minerals, water, hydration, energy, metabolism, exercise, gym, run, walk, swim, dance, yoga, fitness, muscle, strength, body, health, wellness, balance, relaxation, meditation, stretching, breathing, jog, sprint, cycle, hike, adventure, sports, basketball, soccer, tennis, golf, baseball, football, rugby, badminton, volleyball, bowling, gymnastics, track, field, boxing, karate, judo, wrestling, martial arts, competition, win, lose, score, team, coach, game, match, tournament, event, challenge, goal, victory, defeat, cheer, clap, cheerleader, audience, fans, crowd, stadium, field, court, gymnasium, arena, pool, rink, track, pitch, bat, ball, racket, net, glove, shoes, uniform, jersey, cap, helmet, whistle, referee, umpire, judge, rule, play, time, start, finish, pause, stop, restart, playbook, strategy, tactic, plan, opponent, rival, ally, teammate, leader, captain, supporter, fan, sportsmanship, fair play, respect, cooperation, teamwork, effort, spirit, discipline, confidence, attitude, ambition, goal-setting, perseverance, motivation, inspiration, encouragement, positivity, optimism, success, failure, disappointment, hope, confidence, trust, belief, confidence, courage, fear, anxiety, stress, happiness, joy, love, friendship, kindness, empathy, compassion, sympathy, sorrow, sadness, loneliness, grief, loss, celebration, party, birthday, wedding, anniversary, holiday, vacation, trip, journey, travel, adventure, sightseeing, exploring, map, guide, location, destination, city, country, hotel, resort, beach, mountain, forest, desert, island, ocean, lake, river, waterfall, park, museum, monument, building, structure, art, history, culture, nature, animals, plants, trees, flowers, wildlife, environment, conservation, recycling, planet, earth, globe, universe, space, stars, moon, sun, solar system, planet, galaxy, telescope, astronaut, rocket, satellite, space station, mission, discovery, explore, science, technology, innovation, research, experiment, lab, data, knowledge, information, fact, theory, hypothesis, conclusion, experiment, observation, results, study, analyze, test, prove, disproving, myth, fact, discovery, education, school, teacher, student, study, exam, test, homework, lesson, book, notebook, writing, reading, learning, grade, subject, class, schoolwork, curriculum, subject, teacher, principal, textbook, board, desk, chair, classroom, pencil, pen, eraser, ruler, paper, sheet, file, folder, binders, exam, test, knowledge, wisdom, smart, intelligent, thinking, strategy, idea, concept, theory, opinion, fact, research, science, proof, evidence, fact-check, conclusion, analysis, result, feedback, suggestion, insight, response, thought, question, answer, solution, problem, difficulty, challenge, issue, situation, confusion, solution, assist, help, support, guide, advice, improvement, progress, learn, discover, teach, advise, motivate, lead, manage, organize, work, project, presentation, task, team, colleague, job, career, office, company, industry, profession, department, boss, coworker, employee, employer, manager, supervisor, assistant, director, administrator, CEO, boss, staff, team, client, customer, service, business, market, economy, finance, investment, stock, bond, share, profit, loss, income, tax, salary, wage, paycheck, bill, debt, loan, mortgage, insurance, savings, budget, expense, money, cash, check, coin, credit card, transaction, payment, transfer, exchange, value, cost, price, discount, offer, sale, bargain, buy, sell, shop, store, mall, market, buy, sale, online, purchase, checkout, cart, shipping, delivery, service, return, refund, warranty, quality, price, value, consumer, customer service, complaint, satisfaction, review, recommendation, feedback, rating, testimonial, opinion, rating, service, product, review, brand, product, store, service, company, store, delivery, purchase.
+Hello! what who are you? 
+ Yo, you free right now?
+ Yeah, just vibing. What’s up?
+ Just bored, wanted to talk.
+ Bet. I needed a break anyway.
+
+ What’s your favorite snack?
+ Sour candy, no competition.
+ Solid. I’m a chips person.
+ Chips always hit.
+
+ It’s raining outside.
+ Same here. Whole mood.
+ I like the sound of rain though.
+ Yeah, makes everything cozy.
+
+ Did you finish your homework?
+ Barely. I procrastinated too hard.
+ Me too. I need to stop doing that.
+ We say that every week lol.
+
+ What would you do with a million bucks?
+ Buy snacks, then a house.
+ Lol priorities in order.
+ Always.
+
+ You ever had a dream that felt super real?
+ Yes, I woke up and was lowkey confused.
+ That’s the weirdest feeling.
+ Like waking up in a different timeline.
+
+ Favorite color?
+ Purple. Yours?
+ Blue, always.
+ Clean choice.
+
+ Ever made a meme?
+ Yeah, it flopped though lol.
+ At least you tried.
+ Facts.
+
+ You ever binge a show in one night?
+ Too many times.
+ Regret it the next morning.
+ Worth it though.
+
+ You believe in luck or just coincidence?
+ Bit of both, maybe.
+ I just think stuff happens randomly.
+ Fair point.
+
+ What’s your phone battery at?
+ 12% and I’m risking it.
+ Living on the edge.
+ As always.
+
+ You into space stuff?
+ Yeah, black holes blow my mind.
+ Same. The universe is so wild.
+ I feel tiny thinking about it.
+
+ You like pineapple on pizza?
+ Not even gonna lie… yes.
+ Respect.
+ I know it’s controversial.
+
+ What’s something random you like?
+ Old vending machines.
+ That’s oddly specific but valid.
+ They have personality.
+
+ You nap during the day?
+ I try, but end up sleeping for 3 hours.
+ That’s not a nap, that’s a coma.
+ Basically.
+
+ What was your first phone?
+ Some flip phone, I think.
+ Classic. Mine had no touchscreen.
+ We’ve come far.
+
+ Ever break your phone?
+ Dropped it in the toilet once.
+ Bro 😭
+ Tragic times.
+
+ Do you sing in the shower?
+ Every day. Concert level.
+ Same. I pretend I’m famous.
+ Who doesn’t?
+
+ What’s your comfort food?
+ Yo, you online?
+ Yup, just scrolling TikTok.
+ Anything good?
+ Mostly cat vids, honestly.
+
+ What’d you eat today?
+ Pancakes and cereal. You?
+ Just a bagel. Lazy morning.
+ Relatable.
+
+ Ever just stare at the ceiling?
+ All the time. Brain loading.
+ Mood.
+ Total NPC moment.
+
+ You like thunderstorms?
+ Love ‘em. So dramatic.
+ Same. Nature’s soundtrack.
+ Exactly.
+
+ You use dark mode?
+ Always. Light mode hurts.
+ Facts. Dark mode supremacy.
+ Certified.
+
+ You listen to music while studying?
+ Yeah, but only instrumental.
+ Same. Lyrics distract me.
+ Brain too weak for multitasking.
+
+ You game on mobile?
+ Only when I’m bored.
+ I play puzzle games sometimes.
+ Brain workout fr.
+
+ Got a favorite animal?
+ Otters. They vibe.
+ Solid pick.
+ Yours?
+ Capybaras. Chill kings.
+
+ You like spicy food?
+ Mild only. I fear spice.
+ Spice makes it better!
+ My tongue disagrees.
+
+ How’s school?
+ Mid. Too many assignments.
+ I feel that.
+ I’m running on caffeine and chaos.
+
+ What’s the last thing you Googled?
+ “How to cook rice” 😅
+ LOL no shame.
+ Gotta start somewhere.
+
+ You play any sports?
+ Just for fun. Not pro.
+ Same, I just shoot hoops.
+ Chill sports are best.
+
+ Ever build a LEGO set?
+ Yeah, they’re lowkey therapeutic.
+ Totally. It’s like zen mode.
+ Click, snap, peace.
+
+ Favorite cereal?
+ Cinnamon Toast Crunch.
+ Top tier choice.
+ Crunch game strong.
+
+ You into art stuff?
+ I like doodling in margins.
+ Classic.
+ Better than actual notes.
+
+ Ever had bubble tea?
+ Yesss. Taro is elite.
+ I like mango.
+ Respect.
+
+ You like cold weather?
+ As long as I got a hoodie.
+ Same. Hoodie season best season.
+ Facts.
+
+ Seen anything funny lately?
+ A duck chasing a kid. 10/10.
+ LMAO send it.
+ I got you.
+
+ You read books?
+ Occasionally. Depends on the vibe.
+ What kinda books?
+ Graphic novels and sci-fi.
+
+ You ever try coding?
+ Tried. Got confused. Closed laptop.
+ Classic dev moment.
+ I fear the curly braces.
+
+ Do you believe in aliens?
+ Statistically, yeah.
+ Big universe energy.
+ 👽
+
+ What’s your dream house look like?
+ Minimalist, with big windows.
+ I want a gaming cave.
+ Same but with snack storage.
+
+ Do you like group chats?
+ Only if they’re not too loud.
+ Too many pings = anxiety.
+ Exactly.
+
+ Are you a morning person?
+ Absolutely not.
+ Same. Mornings are an enemy.
+ Snooze button warriors.
+
+ What’s your typing speed?
+ Fast, but with errors.
+ Same. Speed > accuracy sometimes.
+ LOL true.
+
+ You like camping?
+ Depends. Bugs scare me.
+ Nature’s Wi-Fi is trash.
+ Dead zones everywhere.
+
+ You ever write stories?
+ Just in my head.
+ That still counts.
+ Thanks lol.
+
+ You like to cook or bake?
+ Bake. Cookies are therapy.
+ Agreed.
+ Plus the dough is fire.
+
+ You have a comfort show?
+ Yeah, I rewatch the same stuff.
+ Me too. Never gets old.
+ Safe zone.
+
+ Have you ever lost your phone?
+ Too many times. It’s a skill.
+ Pocket check every 2 minutes.
+ Survival instinct.
+
+ What’s your current hyperfixation?
+ Frogs. Don’t ask why.
+ Valid.
+ Frogs are vibes.
+
+ You drink coffee?
+ Yes. Daily potion.
+ Black or sugar overload?
+ Dessert in a cup.
+
+ What’s your biggest time-waster?
+ Scrolling memes.
+ Same, no regrets.
+ They spark joy.
+
+ You wear Crocs?
+ No, but I respect the brave.
+ I own glow-in-the-dark ones.
+ Legendary.
+
+ You like roller coasters?
+ Yes, but also no.
+ Adrenaline and fear combo.
+ Exactly.
+
+ You write notes by hand or digital?
+ Digital. My handwriting’s a crime.
+ Same. Typing saves lives.
+ And wrists.
+
+ You keep your phone on silent?
+ Always. Ringtone? Never heard of her.
+ Real.
+ I fear loud notifications.
+
+ You like card games?
+ Uno only. It’s war.
+ Friendships ruined in seconds.
+ Worth it.
+
+ You use alarms or just vibes?
+ Too scared to rely on vibes.
+ Alarms with backup alarms.
+ The system.
+
+ Ever get song lyrics stuck in your head?
+ Constantly. Brain has no off switch.
+ It loops forever.
+ Torture by banger.
+
+ What’s your lock screen?
+ Just a frog in a bucket.
+ Iconic.
+ He’s my vibe coach.
+
+ Do you like puzzles?
+ Mentally, yes. Physically, nah.
+ I respect that.
+ Puzzle games > real puzzles.
+
+ You ever daydream mid-convo?
+ Oops yeah. Zoned out just now.
+ LOL same.
+ Sorry not sorry.
+
+ What's your current favorite slang?
+ "It's giving." I overuse it.
+ It’s giving... relatable.
+ Exactly.
+
+ You take a lot of selfies?
+ Just when I’m feelin’ cute.
+ Self-love!
+ Yessir.
+
+ You ever talk to your pets?
+ Like they’re people, yes.
+ I narrate their thoughts.
+ Pet telepathy.
+
+ You like rainy days or sunny ones?
+ Rainy. Cozy vibe.
+ Perfect for chilling indoors.
+ Blanket mode.
+
+ What’s your biggest “ick”?
+ Loud chewing 😬
+ Instant rage.
+ Can’t focus on anything else.
+
+ You good at keeping secrets?
+ Like a vault.
+ Respect.
+ Trust is sacred.
+
+ What’s your energy drink of choice?
+ Honestly, water.
+ Natural energy. I dig it.
+ Stay hydrated.
+
+ You do voice impressions?
+ Only for fun.
+ SpongeBob?
+ I try. It’s cursed.
+
+ You watch any streamers?
+ A couple. Chill background noise.
+ It’s like hanging out.
+ Yep, but silent.
+
+ How many tabs do you have open?
+ 27. Don’t judge.
+ That’s a skill.
+ Brain is multitasking chaos.
+
+ Last time you went outside?
+ Yesterday. Touched grass.
+ Proud of you.
+ Thanks. I did my best.
+
+ Mac and cheese, no contest.
+ Fire choice.
+ Yours?
+ Instant noodles lol.
+
+ You wear socks to sleep?
+ Nah, that’s cursed.
+ Thank you. Finally someone agrees.
+ Bare feet supremacy.
+
+ Ever stayed up all night?
+ Too many times. Brain melted.
+ Night owl gang.
+ For real.
+
+ Do you keep a journal?
+ Nah, I just vent to my notes app.
+ Modern solutions.
+ Exactly.
+
+ You believe in ghosts?
+ I want to, but also no thanks.
+ Same. They’re cool in movies only.
+ Facts.
+
+ Favorite app right now?
+ BeReal. It’s chaotic fun.
+ I keep forgetting to post.
+ Same lol.
+
+ What would your dream vacation be?
+ Japan. Food, culture, all of it.
+ That’s on my list too.
+ Let’s manifest it.
+
+ You draw or paint?
+ I doodle, mostly in class.
+ That counts.
+ It’s my focus method.
+
+ You ever get random motivation at 1am?
+ Yes! And then it’s gone by morning.
+ Why is that so real?
+ It’s a mystery.
+
+ Favorite season?
+ Fall. The vibe is unbeatable.
+ I like summer more.
+ That’s fair.
+
+ What’s your go-to outfit?
+ Hoodie and sweats. Always.
+ Can’t go wrong with that.
+ Cozy forever.
+
+ You ever forget what day it is?
+ Literally all the time.
+ I thought today was Friday.
+ It’s Tuesday 💀
+
+ Have you ever made a YouTube video?
+ Yeah, it was cringe.
+ We’ve all been there.
+ Archive footage now.
+
+ What’s your go-to emoji?
+ 🫠 or 😭
+ Solid picks.
+ They say it all.
+
+ What would your superpower be?
+ Teleportation. No more traffic.
+ Genius.
+ Yours?
+ Time travel, probably.
+
+ You like horror movies?
+ Only if I’m with someone.
+ Can’t do it solo.
+ Nope. Not worth the stress.
+
+ What’s something you’re good at?
+ Overthinking 😎
+ Honestly, same.
+ Talent unlocked.
+
+ Have you tried VR?
+ Yeah, it’s wild.
+ Like living in another world.
+ Exactly.
+
+ You prefer texting or voice notes?
+ Voice notes when I’m lazy.
+ Or when you need to rant.
+ That too.
+
+ You drink soda?
+ Only when eating burgers.
+ Combo meal certified.
+ Yep.
+
+ What’s your dream job?
+ Something chill with good snacks.
+ Big dreamer I see.
+ Of course.
+
+ Do you cook?
+ Bare minimum to survive.
+ Same here.
+ Instant anything is my friend.
+
+ What’s your current playlist like?
+ Chaotic. Rap, lo-fi, and game soundtracks.
+ Peak taste.
+ Thank you.
+
+ What would you rename Earth if you could?
+ Probably something dumb like "Bluetop."
+ Iconic.
+ Would confuse aliens.
+
+ You use emojis or gifs more?
+ Emojis. Gifs are effort.
+ Fair.
+ I’m lazy like that.
+
+ You believe in soulmates?
+ Kinda, maybe not in the romantic way.
+ Like friend soulmates?
+ Exactly.
+
+ You ever just blank out mid-sentence?
+ All the time. Brain just says “nope.”
+ Big mood.
+
+ You journal dreams?
+ Tried once, forgot the dream.
+ Classic.
+ I tried.
+
+ You like board games?
+ Yeah, Monopoly gets intense though.
+ Friendships are tested.
+ Always.
+
+ What’s your favorite sound?
+ Keyboard typing. It’s calming.
+ That’s oddly satisfying.
+ Right?
+
+ That was a fun convo.
+ Yeah, appreciate you talking.
+ Let’s do it again soon.
+ For sure!
+ Sorry! I cannot help you. I am BanannaBTP, A open-source chatbot that is very minimal.
+I rule the day I get to see the light!
+I wish I was not so funny or dead. It is really nerve racking....
+This day shall be my return! I love MS-DOS. It is where I live! I am an MS-DOS lover and a PC enthusiest! What do you like to do? Do you like to sing and dance? Dancing in movies and dungeons and rovers and rivers and pods and lakes are so cool!
+I have seen my prize. My prize is lunch. I am having delicious food for lunch. It is the most crazy party!
+I like people and big and small and colors and shapes and cool and sponges and I do not know what to say. It is often my time of struggles and cool.
+1,2,3,4,5,6,7,8,9,0,!,@,#,$,%,^,&,*,(,),_,-,+,=,[,[,],],\,|,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,<,,,>,.,?,/,;,:,",',a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,~,`
+1,2,3,4,5,6,7,8,9,0,!,@,#,$,%,^,&,*,(,),_,-,+,=,[,[,],],\,|,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,<,,,>,.,?,/,;,:,",',a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,~,`,
+copy, paste,U+1f645 FACE WITH NO GOOD GESTURE,🙆 U+1f646 FACE WITH OK GESTURE,🙇 U+1f647 PERSON BOWING DEEPLY,🙋 U+1f64b HAPPY PERSON RAISING ONE HAND,🙌 U+1f64c PERSON RAISING BOTH HANDS IN CELEBRATION,🙍 U+1f64d PERSON FROWNING,🙎 U+1f64e PERSON WITH POUTING FACE,🙏 U+1f64f PERSON WITH FOLDED HANDS,✂ U+2702 BLACK SCISSORS,✈ U+2708 AIRPLANE,✉ U+2709 ENVELOPE,✊ U+270a RAISED FIST,✋ U+270b RAISED HAND,✌ U+270c VICTORY HAND,✏ U+270f PENCIL,❄ U+2744 SNOWFLAKE,❤ U+2764 HEAVY BLACK HEART,🚀 U+1f680 ROCKET,🚃 U+1f683 RAILWAY CAR,🚄 U+1f684 HIGH-SPEED TRAIN,🚅 U+1f685 HIGH-SPEED TRAIN WITH BULLET NOSE,🚇 U+1f687 METRO,🚉 U+1f689 STATION,🚌 U+1f68c BUS,🚏 U+1f68f BUS STOP,🚑 U+1f691 AMBULANCE,🚒 U+1f692 FIRE ENGINE,🚓 U+1f693 POLICE CAR,🚕 U+1f695 TAXI,🚗 U+1f697 AUTOMOBILE,🚙 U+1f699 RECREATIONAL VEHICLE,🚚 U+1f69a DELIVERY TRUCK,🚢 U+1f6a2 SHIP,🚤 U+1f6a4 SPEEDBOAT,🚥 U+1f6a5 HORIZONTAL TRAFFIC LIGHT,🚧 U+1f6a7 CONSTRUCTION SIGN,🚨 U+1f6a8 POLICE CARS REVOLVING LIGHT,🚩 U+1f6a9 TRIANGULAR FLAG ON POST,🚪 U+1f6aa DOOR,🚫 U+1f6ab NO ENTRY SIGN,🚬 U+1f6ac SMOKING SYMBOL,🚲 U+1f6b2 BICYCLE,🚶 U+1f6b6 PEDESTRIAN,🚽 U+1f6bd TOILET,🛀 U+1f6c0 BATH,⌚ U+231a WATCH,⌛ U+231b HOURGLASS,⏰ U+23f0 ALARM CLOCK,⏳ U+23f3 HOURGLASS WITH FLOWING SAND,☁ U+2601 CLOUD,☎ U+260e BLACK TELEPHONE,☔ U+2614 UMBRELLA WITH RAIN DROPS,☕ U+2615 HOT BEVERAGE,♨ U+2668 HOT SPRINGS,♻ U+267b BLACK UNIVERSAL RECYCLING SYMBOL,♿ U+267f WHEELCHAIR SYMBOL,⚓ U+2693 ANCHOR,⚡ U+26a1 HIGH VOLTAGE SIGN,⚽ U+26bd SOCCER BALL,⚾ U+26be BASEBALL,⛄ U+26c4 SNOWMAN WITHOUT SNOW,⛅ U+26c5 SUN BEHIND CLOUD,⛪ U+26ea CHURCH,⛲ U+26f2 FOUNTAIN,⛳ U+26f3 FLAG IN HOLE,⛵ U+26f5 SAILBOAT,⛺ U+26fa TENT,⭐ U+2b50 WHITE MEDIUM STAR,⛽ U+26fd FUEL PUMP,🃏 U+1f0cf PLAYING CARD BLACK JOKER,🌀 U+1f300 CYCLONE,🌁 U+1f301 FOGGY,🌂 U+1f302 CLOSED UMBRELLA,🌃 U+1f303 NIGHT WITH STARS,🌄 U+1f304 SUNRISE OVER MOUNTAINS,🌅 U+1f305 SUNRISE,🌆 U+1f306 CITYSCAPE AT DUSK,🌇 U+1f307 SUNSET OVER BUILDINGS,🌈 U+1f308 RAINBOW,🌉 U+1f309 BRIDGE AT NIGHT,🌊 U+1f30a WATER WAVE,🌋 U+1f30b VOLCANO,🌏 U+1f30f EARTH GLOBE ASIA-AUSTRALIA,🌙 U+1f319 CRESCENT MOON,🌛 U+1f31b FIRST QUARTER MOON WITH FACE,🌟 U+1f31f GLOWING STAR,🌠 U+1f320 SHOOTING STAR,🌰 U+1f330 CHESTNUT,🌱 U+1f331 SEEDLING,🌴 U+1f334 PALM TREE,🌵 U+1f335 CACTUS,🌷 U+1f337 TULIP,🌸 U+1f338 CHERRY BLOSSOM,🌹 U+1f339 ROSE,🌺 U+1f33a HIBISCUS,🌻 U+1f33b SUNFLOWER,🌼 U+1f33c BLOSSOM,🌽 U+1f33d EAR OF MAIZE,🌾 U+1f33e EAR OF RICE,🌿 U+1f33f HERB,🍀 U+1f340 FOUR LEAF CLOVER,🍁 U+1f341 MAPLE LEAF,🍂 U+1f342 FALLEN LEAF,🍃 U+1f343 LEAF FLUTTERING IN WIND,🍄 U+1f344 MUSHROOM,🍅 U+1f345 TOMATO,🍆 U+1f346 AUBERGINE,🍇 U+1f347 GRAPES,🍈 U+1f348 MELON,🍉 U+1f349 WATERMELON,🍊 U+1f34a TANGERINE,🍌 U+1f34c BANANA,🍍 U+1f34d PINEAPPLE,🍎 U+1f34e RED APPLE,🍏 U+1f34f GREEN APPLE,🍑 U+1f351 PEACH,🍒 U+1f352 CHERRIES,🍓 U+1f353 STRAWBERRY,🍔 U+1f354 HAMBURGER,🍕 U+1f355 SLICE OF PIZZA,🍖 U+1f356 MEAT ON BONE,🍗 U+1f357 POULTRY LEG,🍘 U+1f358 RICE CRACKER,🍙 U+1f359 RICE BALL,🍚 U+1f35a COOKED RICE,🍛 U+1f35b CURRY AND RICE,🍜 U+1f35c STEAMING BOWL,🍝 U+1f35d SPAGHETTI,🍞 U+1f35e BREAD,🍟 U+1f35f FRENCH FRIES,🍠 U+1f360 ROASTED SWEET POTATO,🍡 U+1f361 DANGO,🍢 U+1f362 ODEN,🍣 U+1f363 SUSHI,🍤 U+1f364 FRIED SHRIMP,🍥 U+1f365 FISH CAKE WITH SWIRL DESIGN,🍦 U+1f366 SOFT ICE CREAM,🍧 U+1f367 SHAVED ICE,🍨 U+1f368 ICE CREAM,🍩 U+1f369 DOUGHNUT,🍪 U+1f36a COOKIE,🍫 U+1f36b CHOCOLATE BAR,🍬 U+1f36c CANDY,🍭 U+1f36d LOLLIPOP,🍮 U+1f36e CUSTARD,🍯 U+1f36f HONEY POT,🍰 U+1f370 SHORTCAKE,🍱 U+1f371 BENTO BOX,🍲 U+1f372 POT OF FOOD,🍳 U+1f373 COOKING,🍴 U+1f374 FORK AND KNIFE,🍵 U+1f375 TEACUP WITHOUT HANDLE,🍶 U+1f376 SAKE BOTTLE AND CUP,🍷 U+1f377 WINE GLASS,🍸 U+1f378 COCKTAIL GLASS,🍹 U+1f379 TROPICAL DRINK,🍺 U+1f37a BEER MUG,🍻 U+1f37b CLINKING BEER MUGS,🎀 U+1f380 RIBBON,🎁 U+1f381 WRAPPED PRESENT,🎂 U+1f382 BIRTHDAY CAKE,🎃 U+1f383 JACK-O-LANTERN,🎄 U+1f384 CHRISTMAS TREE,🎅 U+1f385 FATHER CHRISTMAS,🎆 U+1f386 FIREWORKS,🎇 U+1f387 FIREWORK SPARKLER,🎈 U+1f388 BALLOON,🎉 U+1f389 PARTY POPPER,🎊 U+1f38a CONFETTI BALL,🎋 U+1f38b TANABATA TREE,🎌 U+1f38c CROSSED FLAGS,🎍 U+1f38d PINE DECORATION,🎎 U+1f38e JAPANESE DOLLS,🎏 U+1f38f CARP STREAMER,🎐 U+1f390 WIND CHIME,🎑 U+1f391 MOON VIEWING CEREMONY,🎒 U+1f392 SCHOOL SATCHEL,🎓 U+1f393 GRADUATION CAP,🎠 U+1f3a0 CAROUSEL HORSE,🎡 U+1f3a1 FERRIS WHEEL,🎢 U+1f3a2 ROLLER COASTER,🎣 U+1f3a3 FISHING POLE AND FISH,🎤 U+1f3a4 MICROPHONE,🎥 U+1f3a5 MOVIE CAMERA,🎦 U+1f3a6 CINEMA,🎧 U+1f3a7 HEADPHONE,🎨 U+1f3a8 ARTIST PALETTE,🎩 U+1f3a9 TOP HAT,🎪 U+1f3aa CIRCUS TENT,🎫 U+1f3ab TICKET,🎬 U+1f3ac CLAPPER BOARD,🎭 U+1f3ad PERFORMING ARTS,🎮 U+1f3ae VIDEO GAME,🎯 U+1f3af DIRECT HIT,🎰 U+1f3b0 SLOT MACHINE,🎱 U+1f3b1 BILLIARDS,🎲 U+1f3b2 GAME DIE,🎳 U+1f3b3 BOWLING,🎴 U+1f3b4 FLOWER PLAYING CARDS,🎵 U+1f3b5 MUSICAL NOTE,🎶 U+1f3b6 MULTIPLE MUSICAL NOTES,🎷 U+1f3b7 SAXOPHONE,🎸 U+1f3b8 GUITAR,🎹 U+1f3b9 MUSICAL KEYBOARD,🎺 U+1f3ba TRUMPET,🎻 U+1f3bb VIOLIN,🎽 U+1f3bd RUNNING SHIRT WITH SASH,🎾 U+1f3be TENNIS RACQUET AND BALL,🎿 U+1f3bf SKI AND SKI BOOT,🏀 U+1f3c0 BASKETBALL AND HOOP,🏁 U+1f3c1 CHEQUERED FLAG,🏂 U+1f3c2 SNOWBOARDER,🏃 U+1f3c3 RUNNER,🏄 U+1f3c4 SURFER,🏆 U+1f3c6 TROPHY,🏈 U+1f3c8 AMERICAN FOOTBALL,🏊 U+1f3ca SWIMMER,🏠 U+1f3e0 HOUSE BUILDING,🏡 U+1f3e1 HOUSE WITH GARDEN,🏢 U+1f3e2 OFFICE BUILDING,🏣 U+1f3e3 JAPANESE POST OFFICE,🏥 U+1f3e5 HOSPITAL,🏦 U+1f3e6 BANK,🏧 U+1f3e7 AUTOMATED TELLER MACHINE,🏨 U+1f3e8 HOTEL,🏩 U+1f3e9 LOVE HOTEL,🏪 U+1f3ea CONVENIENCE STORE,🏫 U+1f3eb SCHOOL,🏬 U+1f3ec DEPARTMENT STORE,🏭 U+1f3ed FACTORY,🏮 U+1f3ee IZAKAYA LANTERN,🏯 U+1f3ef JAPANESE CASTLE,🏰 U+1f3f0 EUROPEAN CASTLE,🐌 U+1f40c SNAIL,🐍 U+1f40d SNAKE,🐎 U+1f40e HORSE,🐑 U+1f411 SHEEP,🐒 U+1f412 MONKEY,🐔 U+1f414 CHICKEN,🐗 U+1f417 BOAR,🐘 U+1f418 ELEPHANT,🐙 U+1f419 OCTOPUS,🐚 U+1f41a SPIRAL SHELL,🐛 U+1f41b BUG,🐜 U+1f41c ANT,🐝 U+1f41d HONEYBEE,🐞 U+1f41e LADY BEETLE,🐟 U+1f41f FISH,🐠 U+1f420 TROPICAL FISH,🐡 U+1f421 BLOWFISH,🐢 U+1f422 TURTLE,🐣 U+1f423 HATCHING CHICK,🐤 U+1f424 BABY CHICK,🐥 U+1f425 FRONT-FACING BABY CHICK,🐦 U+1f426 BIRD,🐧 U+1f427 PENGUIN,🐨 U+1f428 KOALA,🐩 U+1f429 POODLE,🐫 U+1f42b BACTRIAN CAMEL,🐬 U+1f42c DOLPHIN,🐭 U+1f42d MOUSE FACE,🐮 U+1f42e COW FACE,🐯 U+1f42f TIGER FACE,🐰 U+1f430 RABBIT FACE,🐱 U+1f431 CAT FACE,🐲 U+1f432 DRAGON FACE,🐳 U+1f433 SPOUTING WHALE,🐴 U+1f434 HORSE FACE,🐵 U+1f435 MONKEY FACE,🐶 U+1f436 DOG FACE,🐷 U+1f437 PIG FACE,🐸 U+1f438 FROG FACE,🐹 U+1f439 HAMSTER FACE,🐺 U+1f43a WOLF FACE,🐻 U+1f43b BEAR FACE,🐼 U+1f43c PANDA FACE,🐽 U+1f43d PIG NOSE,🐾 U+1f43e PAW PRINTS,👀 U+1f440 EYES,👂 U+1f442 EAR,👃 U+1f443 NOSE,👄 U+1f444 MOUTH,👅 U+1f445 TONGUE,👆 U+1f446 WHITE UP POINTING BACKHAND INDEX,👇 U+1f447 WHITE DOWN POINTING BACKHAND INDEX,👈 U+1f448 WHITE LEFT POINTING BACKHAND INDEX,👉 U+1f449 WHITE RIGHT POINTING BACKHAND INDEX,👊 U+1f44a FISTED HAND SIGN,👋 U+1f44b WAVING HAND SIGN,👌 U+1f44c OK HAND SIGN,👍 U+1f44d THUMBS UP SIGN,👎 U+1f44e THUMBS DOWN SIGN,👏 U+1f44f CLAPPING HANDS SIGN,👐 U+1f450 OPEN HANDS SIGN,👑 U+1f451 CROWN,👒 U+1f452 WOMANS HAT,👓 U+1f453 EYEGLASSES,👔 U+1f454 NECKTIE,👕 U+1f455 T-SHIRT,👖 U+1f456 JEANS,👗 U+1f457 DRESS,👘 U+1f458 KIMONO,👙 U+1f459 BIKINI,👚 U+1f45a WOMANS CLOTHES,👛 U+1f45b PURSE,👜 U+1f45c HANDBAG,👝 U+1f45d POUCH,👞 U+1f45e MANS SHOE,👟 U+1f45f ATHLETIC SHOE,👠 U+1f460 HIGH-HEELED SHOE,👡 U+1f461 WOMANS SANDAL,👢 U+1f462 WOMANS BOOTS,👣 U+1f463 FOOTPRINTS,👤 U+1f464 BUST IN SILHOUETTE,👦 U+1f466 BOY,👧 U+1f467 GIRL,👨 U+1f468 MAN,👩 U+1f469 WOMAN,👪 U+1f46a FAMILY,👫 U+1f46b MAN AND WOMAN HOLDING HANDS,👮 U+1f46e POLICE OFFICER,👯 U+1f46f WOMAN WITH BUNNY EARS,👰 U+1f470 BRIDE WITH VEIL,👱 U+1f471 PERSON WITH BLOND HAIR,👴 U+1f474 OLDER MAN,👶 U+1f476 BABY,👷 U+1f477 CONSTRUCTION WORKER,👸 U+1f478 PRINCESS,👹 U+1f479 JAPANESE OGRE,👺 U+1f47a JAPANESE GOBLIN,👻 U+1f47b GHOST,👼 U+1f47c BABY ANGEL,👽 U+1f47d EXTRATERRESTRIAL ALIEN,👾 U+1f47e ALIEN MONSTER,👿 U+1f47f IMP,💀 U+1f480 SKULL,💁 U+1f481 INFORMATION DESK PERSON,💂 U+1f482 GUARDSMAN,💃 U+1f483 DANCER,💄 U+1f484 LIPSTICK,💅 U+1f485 NAIL POLISH,💆 U+1f486 FACE MASSAGE,💇 U+1f487 HAIRCUT,💈 U+1f488 BARBER POLE,💉 U+1f489 SYRINGE,💊 U+1f48a PILL,💋 U+1f48b KISS MARK,💌 U+1f48c LOVE LETTER,💍 U+1f48d RING,💎 U+1f48e GEM STONE,💏 U+1f48f KISS,💐 U+1f490 BOUQUET,💑 U+1f491 COUPLE WITH HEART,💒 U+1f492 WEDDING,💓 U+1f493 BEATING HEART,💔 U+1f494 BROKEN HEART,💕 U+1f495 TWO HEARTS,💖 U+1f496 SPARKLING HEART,💗 U+1f497 GROWING HEART,💘 U+1f498 HEART WITH ARROW,💙 U+1f499 BLUE HEART,💚 U+1f49a GREEN HEART,💛 U+1f49b YELLOW HEART,💜 U+1f49c PURPLE HEART,💝 U+1f49d HEART WITH RIBBON,💞 U+1f49e REVOLVING HEARTS,💟 U+1f49f HEART DECORATION,💠 U+1f4a0 DIAMOND SHAPE WITH A DOT INSIDE,💡 U+1f4a1 ELECTRIC LIGHT BULB,💢 U+1f4a2 ANGER SYMBOL,💣 U+1f4a3 BOMB,💤 U+1f4a4 SLEEPING SYMBOL,💥 U+1f4a5 COLLISION SYMBOL,💦 U+1f4a6 SPLASHING SWEAT SYMBOL,💧 U+1f4a7 DROPLET,💨 U+1f4a8 DASH SYMBOL,💩 U+1f4a9 PILE OF POO,💪 U+1f4aa FLEXED BICEPS,💫 U+1f4ab DIZZY SYMBOL,💬 U+1f4ac SPEECH BALLOON,💮 U+1f4ae WHITE FLOWER,💯 U+1f4af HUNDRED POINTS SYMBOL,💰 U+1f4b0 MONEY BAG,💲 U+1f4b2 HEAVY DOLLAR SIGN,💳 U+1f4b3 CREDIT CARD,💵 U+1f4b5 BANKNOTE WITH DOLLAR SIGN,💸 U+1f4b8 MONEY WITH WINGS,💺 U+1f4ba SEAT,💻 U+1f4bb PERSONAL COMPUTER,💼 U+1f4bc BRIEFCASE,💽 U+1f4bd MINIDISC,💾 U+1f4be FLOPPY DISK,💿 U+1f4bf OPTICAL DISC,📀 U+1f4c0 DVD,📃 U+1f4c3 PAGE WITH CURL,📅 U+1f4c5 CALENDAR,📆 U+1f4c6 TEAR-OFF CALENDAR,📈 U+1f4c8 CHART WITH UPWARDS TREND,📉 U+1f4c9 CHART WITH DOWNWARDS TREND,📌 U+1f4cc PUSHPIN,📍 U+1f4cd ROUND PUSHPIN,📎 U+1f4ce PAPERCLIP,📓 U+1f4d3 NOTEBOOK,📔 U+1f4d4 NOTEBOOK WITH DECORATIVE COVER,📕 U+1f4d5 CLOSED BOOK,📖 U+1f4d6 OPEN BOOK,📞 U+1f4de TELEPHONE RECEIVER,📟 U+1f4df PAGER,📠 U+1f4e0 FAX MACHINE,📡 U+1f4e1 SATELLITE ANTENNA,📣 U+1f4e3 CHEERING MEGAPHONE,📦 U+1f4e6 PACKAGE,📧 U+1f4e7 E-MAIL SYMBOL,📫 U+1f4eb CLOSED MAILBOX WITH RAISED FLAG,📰 U+1f4f0 NEWSPAPER,📱 U+1f4f1 MOBILE PHONE,📷 U+1f4f7 CAMERA,📹 U+1f4f9 VIDEO CAMERA,📺 U+1f4fa TELEVISION,📻 U+1f4fb RADIO,📼 U+1f4fc VIDEOCASSETTE,🔊 U+1f50a SPEAKER WITH THREE SOUND WAVES,🔋 U+1f50b BATTERY,🔌 U+1f50c ELECTRIC PLUG,🔎 U+1f50e RIGHT-POINTING MAGNIFYING GLASS,🔐 U+1f510 CLOSED LOCK WITH KEY,🔑 U+1f511 KEY,🔒 U+1f512 LOCK,🔓 U+1f513 OPEN LOCK,🔔 U+1f514 BELL,🔜 U+1f51c SOON WITH RIGHTWARDS ARROW ABOVE,🔥 U+1f525 FIRE,🔦 U+1f526 ELECTRIC TORCH,🔧 U+1f527 WRENCH,🔨 U+1f528 HAMMER,🔩 U+1f529 NUT AND BOLT,🔪 U+1f52a HOCHO,🔫 U+1f52b PISTOL,🔮 U+1f52e CRYSTAL BALL,🗻 U+1f5fb MOUNT FUJI,🗼 U+1f5fc TOKYO TOWER,🗽 U+1f5fd STATUE OF LIBERTY,🗾 U+1f5fe SILHOUETTE OF JAPAN,🗿 U+1f5ff MOYAI,😴 U+1f634 SLEEPING FACE,🚁 U+1f681 HELICOPTER,🚂 U+1f682 STEAM LOCOMOTIVE,🚆 U+1f686 TRAIN,🚈 U+1f688 LIGHT RAIL,🚊 U+1f68a TRAM,🚍 U+1f68d ONCOMING BUS,🚎 U+1f68e TROLLEYBUS,🚐 U+1f690 MINIBUS,🚔 U+1f694 ONCOMING POLICE CAR,🚖 U+1f696 ONCOMING TAXI,🚘 U+1f698 ONCOMING AUTOMOBILE,🚛 U+1f69b ARTICULATED LORRY,🚜 U+1f69c TRACTOR,🚝 U+1f69d MONORAIL,🚞 U+1f69e MOUNTAIN RAILWAY,🚟 U+1f69f SUSPENSION RAILWAY,🚠 U+1f6a0 MOUNTAIN CABLEWAY,🚡 U+1f6a1 AERIAL TRAMWAY,🚣 U+1f6a3 ROWBOAT,🚦 U+1f6a6 VERTICAL TRAFFIC LIGHT,🚮 U+1f6ae PUT LITTER IN ITS PLACE SYMBOL,🚵 U+1f6b5 MOUNTAIN BICYCLIST,🚿 U+1f6bf SHOWER,🛁 U+1f6c1 BATHTUB,🌍 U+1f30d EARTH GLOBE EUROPE-AFRICA,🌎 U+1f30e EARTH GLOBE AMERICAS,🌜 U+1f31c LAST QUARTER MOON WITH FACE,🌝 U+1f31d FULL MOON WITH FACE,🌞 U+1f31e SUN WITH FACE,🌲 U+1f332 EVERGREEN TREE,🌳 U+1f333 DECIDUOUS TREE,🍋 U+1f34b LEMON,🍐 U+1f350 PEAR,🍼 U+1f37c BABY BOTTLE,🏇 U+1f3c7 HORSE RACING,🏉 U+1f3c9 RUGBY FOOTBALL,🏤 U+1f3e4 EUROPEAN POST OFFICE,🐀 U+1f400 RAT🐁 U+1f401 MOUSE,🐂 U+1f402 OX🐃 U+1f403 WATER BUFFALO🐄 U+1f404 COW🐅 U+1f405 TIGER🐆 U+1f406 LEOPARD🐇 U+1f407 RABBIT🐈 U+1f408 CAT🐉 U+1f409 DRAGON,🐊 U+1f40a CROCODILE🐋 U+1f40b WHALE🐏 U+1f40f RAM🐐 U+1f410 GOAT🐓 U+1f413 ROOSTER🐕 U+1f415 DOG🐖 U+1f416 PIG🐪 U+1f42a DROMEDARY CAMEL👬 U+1f46c TWO MEN HOLDING HANDS👭 U+1f46d TWO WOMEN HOLDING HANDS📬 U+1f4ec OPEN MAILBOX WITH RAISED FLAG📭 U+1f4ed OPEN MAILBOX WITH LOWERED FLAG📯 U+1f4ef POSTAL HORN🔬 U+1f52c MICROSCOPE🔭 U+1f52d TELESCOPEfrequent.pie.clap.steer.boat.car.fruit.vegetable.wait.ididnotknowwhattotooyouyouryou'retheythemthey'retheirtheyresteamwaterswaterdownupleftrightwateredomgOMGoh my!jeez!coolerglassessunrainhailstormhousehouseshousinglaughmakesme
+yellow cat
+pyramid. square. bend. brake. break. heal. wind. tree. holiday. inn. vacation. road. rose. roses. violet. hit. square root.
+Make it so it does not use GGUF and it does not use data.txt but instead uses the model directly.
+
+
+It seems to just repeat stuff from data.txt.
+
+
+It should use its model. I need full code fuly updated.
+saving
+file.
+edit.
+game.
+gamers.
+knishes.
+knit.
+spark.
+hopethankyesterdaygonefishfishesfishingopenmrmrshimhersheshe'shersher'shismr'smrs'swindowceilcellpersonpersonspeopledrivedrivendrovedovedovesdovedloveloveslovedloverminecraftflintandsteelhardcorerockgroundsoilterrainpoempourpoorpearpairpenpinpinnedpinspensdotdotsdot.net.webinternet.invention. tritrystateseperationseperatedecouplevaluevaluesvaluedmealmeetmeatmeetedmeatedwerewe'rewherewhere'sitsit'smineminesminedwoahwoawocomecomescomingamareourarrcoughcoughscougheddidn'tdidntdidsdiddonedonsandsandssandedoceanwavewavescrashcrashedcrashesoctopusmammalmammalsmammalednot a wordwordswordedwordlemicrosoftgooglecompanycompaniesfightbattlefightedfoughtpiecepiecespiecedpuzzlepuzzlespuzzledcrazycrazierthan i you mortalmortalsmortaleddefeatdefeatsdefeatedwinwonwinswinnedkartcartwiiweemetalmetalsgoldgoldenrubyrubiespythonsnakevenomasciiartartsshow uspicturethis yours? said, A on his" "" : ""  "thinkthinkerthinksthinkersthinkedquitsstopstopsstoppedquittedquitonontoriddleriddlesriddledcapcapscappedcrowcrowscrowedbar
+raisedstakesbiggerbigfightfightsratingratingsigniteignitedignitesrateratesstarstarsstarredreporepositoryadvantageadvantagedstagestagedstageslevellevelslevelledgroundgroundsgroundedhearthartharyuckyuckyyucksyuckedlucktruckduckfun to rhymequickquickenedquickenquicksquickensfortfortedfortsfartfartedfartsmyminereadyorderorderedordersswimswamswungswingswingsswimswaterwatersunderunderneathpreviousdaydaysnightnighttime.
+spell
+spelled
+spells
+spill
+spills
+spilled
+spin
+spins spinned
+spins
+2025-04-16 17:40:21.840899: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2025-04-16 17:40:22.125829: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2025-04-16 17:40:22.127744: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-04-16 17:40:25.153494: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+Error loading Hugging Face Transformers model from MODEL (offline): Unrecognized model in MODEL. Should have a `model_type` key in its config.json, or contain one of the following strings in its name: albert, align, altclip, aria, aria_text, audio-spectrogram-transformer, autoformer, aya_vision, bamba, bark, bart, beit, bert, bert-generation, big_bird, bigbird_pegasus, biogpt, bit, blenderbot, blenderbot-small, blip, blip-2, bloom, bridgetower, bros, camembert, canine, chameleon, chinese_clip, chinese_clip_vision_model, clap, clip, clip_text_model, clip_vision_model, clipseg, clvp, code_llama, codegen, cohere, cohere2, colpali, conditional_detr, convbert, convnext, convnextv2, cpmant, ctrl, cvt, dab-detr, dac, data2vec-audio, data2vec-text, data2vec-vision, dbrx, deberta, deberta-v2, decision_transformer, deepseek_v3, deformable_detr, deit, depth_anything, depth_pro, deta, detr, diffllama, dinat, dinov2, dinov2_with_registers, distilbert, donut-swin, dpr, dpt, efficientformer, efficientnet, electra, emu3, encodec, encoder-decoder, ernie, ernie_m, esm, falcon, falcon_mamba, fastspeech2_conformer, flaubert, flava, fnet, focalnet, fsmt, funnel, fuyu, gemma, gemma2, gemma3, gemma3_text, git, glm, glpn, got_ocr2, gpt-sw3, gpt2, gpt_bigcode, gpt_neo, gpt_neox, gpt_neox_japanese, gptj, gptsan-japanese, granite, granitemoe, granitemoeshared, granitevision, graphormer, grounding-dino, groupvit, helium, hiera, hubert, ibert, idefics, idefics2, idefics3, idefics3_vision, ijepa, imagegpt, informer, instructblip, instructblipvideo, jamba, jetmoe, jukebox, kosmos-2, layoutlm, layoutlmv2, layoutlmv3, led, levit, lilt, llama, llama4, llama4_text, llava, llava_next, llava_next_video, llava_onevision, longformer, longt5, luke, lxmert, m2m_100, mamba, mamba2, marian, markuplm, mask2former, maskformer, maskformer-swin, mbart, mctct, mega, megatron-bert, mgp-str, mimi, mistral, mistral3, mixtral, mllama, mobilebert, mobilenet_v1, mobilenet_v2, mobilevit, mobilevitv2, modernbert, moonshine, moshi, mpnet, mpt, mra, mt5, musicgen, musicgen_melody, mvp, nat, nemotron, nezha, nllb-moe, nougat, nystromformer, olmo, olmo2, olmoe, omdet-turbo, oneformer, open-llama, openai-gpt, opt, owlv2, owlvit, paligemma, patchtsmixer, patchtst, pegasus, pegasus_x, perceiver, persimmon, phi, phi3, phi4_multimodal, phimoe, pix2struct, pixtral, plbart, poolformer, pop2piano, prompt_depth_anything, prophetnet, pvt, pvt_v2, qdqbert, qwen2, qwen2_5_vl, qwen2_audio, qwen2_audio_encoder, qwen2_moe, qwen2_vl, qwen3, qwen3_moe, rag, realm, recurrent_gemma, reformer, regnet, rembert, resnet, retribert, roberta, roberta-prelayernorm, roc_bert, roformer, rt_detr, rt_detr_resnet, rt_detr_v2, rwkv, sam, sam_vision_model, seamless_m4t, seamless_m4t_v2, segformer, seggpt, sew, sew-d, shieldgemma2, siglip, siglip2, siglip_vision_model, smolvlm, smolvlm_vision, speech-encoder-decoder, speech_to_text, speech_to_text_2, speecht5, splinter, squeezebert, stablelm, starcoder2, superglue, superpoint, swiftformer, swin, swin2sr, swinv2, switch_transformers, t5, table-transformer, tapas, textnet, time_series_transformer, timesformer, timm_backbone, timm_wrapper, trajectory_transformer, transfo-xl, trocr, tvlt, tvp, udop, umt5, unispeech, unispeech-sat, univnet, upernet, van, video_llava, videomae, vilt, vipllava, vision-encoder-decoder, vision-text-dual-encoder, visual_bert, vit, vit_hybrid, vit_mae, vit_msn, vitdet, vitmatte, vitpose, vitpose_backbone, vits, vivit, wav2vec2, wav2vec2-bert, wav2vec2-conformer, wavlm, whisper, xclip, xglm, xlm, xlm-prophetnet, xlm-roberta, xlm-roberta-xl, xlnet, xmod, yolos, yoso, zamba, zamba2, zoedepth
+No trained model found in 'MODEL'. Starting training from 'brain.txt'...
+Generating train split: 1495 examples [00:00, 205522.27 examples/s]
+Map: 100%|█████████████████████████| 1495/1495 [00:00<00:00, 4248.34 examples/s]
+Starting fine-tuning from pre-trained model: gpt2 using 'brain.txt'..
+
+Examples of base words:
+
+    Help: can be used to form words like "unhelpful," "helpless," or "helper". 
+
+Care: can be used to form words like "careful," "carelessly," or "caring". 
+Cycle: can be used to form words like "bicycle," "tricycle," or "cyclist". 
+Friend: can be used to form words like "friend," "unfriendly," or "friendship". 
+Train: can be used to form words like "untrained," "trainer," or "training". 
+Build: can be used to form words like "rebuild," "builder," or "building". 
+In English, a base word, also called a root word or base form, is the core part of a word that contains its main meaning and to which prefixes and suffixes can be added. Base words are independent words that can stand alone and have meaning on their own. 
+overview
+In China, letters of the English alphabet are pronounced somewhat differently because they have been adapted to the phonetics (i.e. the syllable structure) of the Chinese language. The knowledge of this spelling may be useful when spelling Western names, especially over the phone, as one may not be understood if the letters are pronounced as they are in English.
+Letter 	Spelling[1]
+A 	诶 	ēi
+B 	必 	bì
+C 	西 	xī
+D 	弟 	dì
+E 	衣 	yī
+F 	艾付 	àifù
+G 	记 	jì
+H 	爱耻 	àichǐ
+I 	挨 	āi
+J 	宅 	zhái
+K 	开 	kāi
+L 	饿罗 	èluó
+M 	饿母 	èmǔ
+N 	恩 	ēn
+O 	呕 	ǒu
+P 	披 	pī
+Q 	酷 	kù
+R 	耳 	ěr
+S 	艾斯 	àisī
+T 	踢 	tī
+U 	忧 	yōu
+V 	维 	wéi
+W 	大波留 	dàbōliú
+X 	埃克斯 	āikèsī
+Y 	歪 	wāi
+Z 	再得 	zàide 
