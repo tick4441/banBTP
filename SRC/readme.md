@@ -8,3 +8,7 @@ Otherwise, BrainBTP's brain.txt (main dataset) is the fully open source dataset.
 Other data used: 
 
 https://github.com/dwyl/english-words (words.txt finetuned so the bot can understand many words.)
+
+NOTE: The dataset may be split into multiple txt files. So you may say brain{number}.txt. this just means the dataset is split into multiple lines.
+
+Any data listed on other repos are always checked to see in public domain. if not in public domain, it is not used.
