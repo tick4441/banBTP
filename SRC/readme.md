@@ -3,7 +3,7 @@ This is the dataset for BananaBTP, It's quite small! But aims to stay small. It 
 the brain.txt DATASET is licensed under BSDCLAUSE 3 and is 100 percent open-source.
 
 for the "Other data" used, It may not be under an open-source license and you may have to check with the developer.
-Otherwise, BrainBTP's brain.txt (main dataset) is the fully open source dataset. other datasets include an english dictionary (under a non-open source license but free to use.)
+Otherwise, BrainBTP's brain.txt (main dataset) is the fully open source dataset. other datasets include an english dictionary
 
 Other data used: 
 
