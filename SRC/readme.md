@@ -17,6 +17,8 @@ https://github.com/miguelmota/x86-assembly-examples (MIT license)
 
 https://github.com/shamrice/COBOL-Examples/tree/main (MIT LICENSE)
 
+https://github.com/oz123/awesome-c (Creative commons 4.0 license)
+
 
 NOTE: The dataset may be split into multiple txt files. So you may say brain{number}.txt. this just means the dataset is split into multiple lines.
 
