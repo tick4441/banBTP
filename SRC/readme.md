@@ -13,7 +13,7 @@ https://www.kaggle.com/datasets/kreeshrajani/3k-conversations-dataset-for-chatbo
 
 https://github.com/schoolofdevops/html-sample-app (Creative commons)
 
-
+https://github.com/miguelmota/x86-assembly-examples (MIT license)
 
 NOTE: The dataset may be split into multiple txt files. So you may say brain{number}.txt. this just means the dataset is split into multiple lines.
 
