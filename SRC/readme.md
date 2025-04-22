@@ -11,6 +11,10 @@ https://github.com/dwyl/english-words (words.txt finetuned so the bot can unders
 
 https://www.kaggle.com/datasets/kreeshrajani/3k-conversations-dataset-for-chatbot
 
+https://github.com/schoolofdevops/html-sample-app (Creative commons)
+
+
+
 NOTE: The dataset may be split into multiple txt files. So you may say brain{number}.txt. this just means the dataset is split into multiple lines.
 
 Any data listed on other repos are always checked to see in public domain. if not in public domain, it is not used.
