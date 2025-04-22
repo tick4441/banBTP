@@ -15,6 +15,9 @@ https://github.com/schoolofdevops/html-sample-app (Creative commons)
 
 https://github.com/miguelmota/x86-assembly-examples (MIT license)
 
+https://github.com/shamrice/COBOL-Examples/tree/main (MIT LICENSE)
+
+
 NOTE: The dataset may be split into multiple txt files. So you may say brain{number}.txt. this just means the dataset is split into multiple lines.
 
 Any data listed on other repos are always checked to see in public domain. if not in public domain, it is not used.
