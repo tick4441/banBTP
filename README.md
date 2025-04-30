@@ -10,4 +10,5 @@ BananaBTP is 100 percent open-source, It's dataset is also open.
 
 Currently the dataset is under 1 million lines of txt. It aims to be small and perform on small computers.
 
-Apr/23/25: View BananaBTP live page here: https://tick4441.github.io/ (NOTE: This website runs on ngrok and may not always be guaranteed to be up. It may sometimes be down and server might sometimes be slow. It is running on my own server and eventually will be upgraded to full time web server so eventually it shouldn't be so laggy. For now though, it is laggy.)
+Apr/30/25 update: BananaBTP live page server is currently being reworked. Temporary bot can be found here: tick4441.github.io/tempbot.html
+BananaBTP live version will be hosted on github pages as those servers are better. The livepage BananaBTP will also be open-source but is instead powered by a markov and AIML system. If you want the actual BananaBTP server, (which is also open-source) you can download the server yourself and host BananaBTP on your own server!
