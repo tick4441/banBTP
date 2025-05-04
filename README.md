@@ -3,7 +3,7 @@
 
  BananaBTP - A open source chatbot. work in progress...
 
-This chatbot is extremely lightweight and easy to use. being based on a super small language model that can run on low ram.
+This chatbot is extremely lightweight and easy to use. being based on a super small RNN model that can run on low ram.
 
 BananaBTP is licensed under BSD clause 3.
 BananaBTP is 100 percent open-source, It's dataset is also open.
