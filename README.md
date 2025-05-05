@@ -1,7 +1,9 @@
 # bananaBTP
- A FREE open-source chatbot that is local and offline. W.I.P 
+ A FREE open-source chatbot that is local and offline. 
 
- BananaBTP - A open source chatbot. work in progress...
+ BananaBTP - A open source chatbot.
+
+ currently completed. 
 
 This chatbot is extremely lightweight and easy to use. being based on a super small RNN model that can run on low ram.
 
