@@ -11,3 +11,5 @@ BananaBTP is licensed under BSD clause 3.
 BananaBTP is 100 percent open-source, It's dataset is also open.
 
 Currently the dataset is under 1 million lines of txt. It aims to be small and perform on small computers.
+
+coded by bbtp himself ;)
