@@ -11,17 +11,6 @@ https://github.com/dwyl/english-words (words.txt finetuned so the bot can unders
 
 https://www.kaggle.com/datasets/kreeshrajani/3k-conversations-dataset-for-chatbot
 
-https://github.com/schoolofdevops/html-sample-app (Creative commons)
-
-https://github.com/miguelmota/x86-assembly-examples (MIT license)
-
-https://github.com/shamrice/COBOL-Examples/tree/main (MIT LICENSE)
-
-https://github.com/oz123/awesome-c (Creative commons 4.0 license)
-
-https://reactos.org/ (GPL)
-
-https://vanillaos.org/
 
 
 NOTE: The dataset may be split into multiple txt files. So you may say brain{number}.txt. this just means the dataset is split into multiple lines.
