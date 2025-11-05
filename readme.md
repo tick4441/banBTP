@@ -29,3 +29,5 @@ When loading the model for inference, you may give it a prompt and test it out! 
 Enjoy BanBTP!
 
 Rock on :D
+
+NOTE: BanBTP is provided in GGUF format, not huggingface format. this is to make the model easy to use and distribute.
