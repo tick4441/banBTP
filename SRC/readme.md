@@ -1,4 +1,4 @@
-This is the dataset for BanBTP, It's quite small! This is because this is the small version. the  full version is here:
+This is the dataset for BanBTP, It's quite small! This is because this is the small version. the  full version is here: https://huggingface.co/datasets/aaro765/BanBTP-sourcedataset
 
 the brain.txt DATASET is licensed under BSDCLAUSE 3 and is 100 percent open-source.
 
