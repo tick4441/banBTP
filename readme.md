@@ -14,7 +14,7 @@ The dataset amd models are licensed under BSD clause 3.
 
 This is probably one of the very few fully open-source and not just open-weight SLM!
 
-when training the model, it is best to set it at 3-4 epochs. 1 epoch may not do much.
+when training the model, it is best to set it at 12-25 epochs. 1 epoch may not do much.
 
 This LLM is fully open. you may redistribute or do whatever with the model.
 
@@ -27,3 +27,5 @@ Enjoy BanBTP!
 Rock on :D
 
 NOTE: BanBTP is provided in GGUF format, not huggingface format. this is to make the model easy to use and distribute.
+
+the source models for 124m and 700m do not have a huggingface format, as the original huggingface models are lost. future models will be in hf format and released as gguf.
